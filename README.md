@@ -8,7 +8,7 @@ the input is 123, the output should be 6.
 <br>3. Write a program that uses structures to manage flight information, including flight
 number, departure city, destination city, date, and available seats. Create functionalities
 to book a seat and display flight details.
-<br>2. Write a program that use a structure to hold information about movies, such as title,
+<br>4. Write a program that use a structure to hold information about movies, such as title,
 genre, director, release year, and rating. Write a program that allows users to add new
 movies, search for movies by genre, and display all movie details.
 
